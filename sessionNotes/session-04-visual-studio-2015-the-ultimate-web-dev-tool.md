@@ -1,7 +1,7 @@
 #Visual Studio ❤ JavaScript
 
 ##Resources  
-- [Watch on YouTube]()
+- [Watch on YouTube](http://youtu.be/KIPo3Rct1E4)
 - [Get the slides]()
 - [Download the demo notes]()
 
