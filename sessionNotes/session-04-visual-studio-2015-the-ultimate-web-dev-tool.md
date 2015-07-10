@@ -3,7 +3,7 @@
 ##Resources  
 - [Watch on YouTube](http://youtu.be/KIPo3Rct1E4)
 - [Get the slides]()
-- [Download the demo notes]()
+- [Download the demo notes](http://sadev.co.za/content/visual studio <3 javascript)
 
 ##Links
 - [Windows 10 Developer Resources](http://dev.windows.com)
