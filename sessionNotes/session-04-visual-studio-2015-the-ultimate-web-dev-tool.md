@@ -2,7 +2,7 @@
 
 ##Resources  
 - [Watch on YouTube](http://youtu.be/KIPo3Rct1E4)
-- [Get the slides]()
+- [Get the slides](http://www.slideshare.net/rmaclean/visual-studio-javascript)
 - [Download the demo notes](http://sadev.co.za/content/visual studio <3 javascript)
 
 ##Links
